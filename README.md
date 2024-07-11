@@ -1,2 +1,2 @@
-# ilp-lista01
-Template da lista de exercícios 01
+# ilp-lista02
+Template da lista de exercícios 02
